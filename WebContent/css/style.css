@@ -1,6 +1,6 @@
 ﻿/*공통 Start*/
 * { -webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box; }
-body{ font-family: helvetica, meiryo, gulim, AppleGothic, sans-serif; font-size:16px; }
+body{ font-family: helvetica, meiryo, gulim, AppleGothic, sans-serif; font-size:18px; }
 blockquote, body, dd, div, dl, dt, fieldset, form, h2, h3, h4, h5, h6, input, li, ol, p, pre, td, textarea, th, ul {
     padding: 0;
     margin: 0;
@@ -110,9 +110,9 @@ img { max-width: 100%; }
 
 /*Menu End*/
 
-/*Header Start*/
+/*Header Start*/ /*rgba(247, 236, 214, 1)*/ 
 .header {
-    background: linear-gradient( rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.9) ), url('../images/bg-top.png');
+    background: linear-gradient( rgba(0, 0, 0, 0.0), rgba(188, 173, 200, 1)), url('../images/bg-top.png');
     background-position: center top;
     background-size: cover;
     color: white;
